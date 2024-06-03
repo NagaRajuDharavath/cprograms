@@ -1,0 +1,18 @@
+structure of c programme
+1)link section
+  #include<stdio.h>
+  input---->scanf
+  output---->printf
+
+stdio.h=standard input output header
+
+#include<conio.h>
+ getch()= to hold the output print screen
+conio.h=console input output 
+
+#include<math.h>
+to know about the mathematical caluculation
+
+#inlcude<string.h>
+ to use the string 
+exl: strlen,str,strcon,strcmp etc... 
